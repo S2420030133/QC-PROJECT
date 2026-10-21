@@ -1,0 +1,9 @@
+file,metric,reference_rows,reproduction_rows,matched_rows,missing_or_extra_rows,max_absolute_difference,mismatches_over_tolerance,tolerance
+exact_performance.csv,balanced_accuracy,5312,5312,5312,0,0.0,0,1e-10
+exact_performance.csv,roc_auc,5312,5312,5312,0,0.0,0,1e-10
+exact_performance.csv,threshold,5312,5312,800,0,0.0,0,1e-10
+exact_performance.csv,score_rmse_vs_clean,5312,5312,5312,0,0.0,0,1e-10
+finite_shot_performance.csv,balanced_accuracy,5120,5120,5120,0,0.0,0,1e-10
+finite_shot_performance.csv,roc_auc,5120,5120,5120,0,0.0,0,1e-10
+finite_shot_performance.csv,selected_threshold,5120,5120,5120,0,0.0,0,1e-10
+finite_shot_performance.csv,measurement_shots_total,5120,5120,5120,0,0.0,0,0.0

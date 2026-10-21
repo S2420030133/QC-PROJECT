@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+results/checkpoints/
+results/splits/
+results/*.csv
+results/*.json
+results/*.png
+paper.pdf
+results/
+tmp/
+output/
+*.zip
